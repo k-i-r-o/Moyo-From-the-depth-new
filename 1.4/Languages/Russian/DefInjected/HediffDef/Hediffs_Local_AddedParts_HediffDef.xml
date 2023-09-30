@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/Hediffs_Local_AddedParts.xml-->
+                <!-- fake tail -->
+<Moyo_FakeTail.label>искуственный хвост</Moyo_FakeTail.label>
+                    <!-- a fake tail -->
+<Moyo_FakeTail.labelNoun>искуственный хвост</Moyo_FakeTail.labelNoun>
+                      <!-- A fake tail made made from fabric. Helps keep balance. -->
+<Moyo_FakeTail.description>Искусственный хвост, изготовленный из ткани. Помогает сохранять равновесие.</Moyo_FakeTail.description>
+                  <!-- bionic tail -->
+<Moyo_BionicTail.label>Бионический хвост</Moyo_BionicTail.label>
+                      <!-- a bionic tail -->
+<Moyo_BionicTail.labelNoun>Бионический хвост</Moyo_BionicTail.labelNoun>
+                        <!-- A binoic tail made with advanced technology. Superior to a natural tail in many ways. -->
+<Moyo_BionicTail.description>Бионический хвост, изготовленный по передовой технологии. Превосходит натуральный хвост во многих отношениях.</Moyo_BionicTail.description>
+                     <!-- abysstech heart -->
+<Moyo_AdvancedHeart.label>сердце улучшенное Глубинными Технологиями</Moyo_AdvancedHeart.label>
+                         <!-- a abysstech heart -->
+<Moyo_AdvancedHeart.labelNoun>сердце улучшенное Глубинными Технологиями</Moyo_AdvancedHeart.labelNoun>
+                           <!-- An installed abysstech heart. -->
+<Moyo_AdvancedHeart.description>Установленно сердце улучшенное Глубинными Технологиями.</Moyo_AdvancedHeart.description>
+
+</LanguageData>

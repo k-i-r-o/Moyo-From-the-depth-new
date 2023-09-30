@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Deepblue_SpliceSimple.xml-->
+             <!-- high on morphi-blue -->
+<BlueGoHigh.label>Интоксикация Синим Морфи</BlueGoHigh.label>
+                 <!-- a morphi-blue high -->
+<BlueGoHigh.labelNoun>интоксикация Синим Морфи</BlueGoHigh.labelNoun>
+                   <!-- Go-juice infused with deepblue runs through the bloodstream inhancing combat abilities. This effect does not stack with Go-juice. -->
+<BlueGoHigh.description>Го-сок, насыщенный темно-синим цветом, проходит по кровотоку, улучшая боевые способности. Этот эффект не суммируется с Go-соком.</BlueGoHigh.description>
+             <!-- high on sapphire meth -->
+<BlueUpHigh.label>Интоксикация сапфировым Метом</BlueUpHigh.label>
+                 <!-- a sapphire meth high -->
+<BlueUpHigh.labelNoun>интоксикация сапфировым Метом</BlueUpHigh.labelNoun>
+                   <!-- Wakeup infused with deepblue runs through the bloodstream inhancing work efficiency. This effect does not stack with Wakeup. -->
+<BlueUpHigh.description>Пробуждение с насыщенным синим цветом проходит по кровотоку, повышая эффективность работы. Этот эффект не суммируется с Пробуждением.</BlueUpHigh.description>
+             <!-- high on bluehaze -->
+<BlueYoHigh.label>Интоксикация Синей Дымкой</BlueYoHigh.label>
+                 <!-- a bluehaze high -->
+<BlueYoHigh.labelNoun>интоксикация Синей Дымкой</BlueYoHigh.labelNoun>
+                   <!-- Psychite infused with deepblue runs through the bloodstream refreshing pawn's body and mind. This effect does not stack with Yayo and flake. -->
+<BlueYoHigh.description>Психин в смеси с Глубокой Синевой течет по кровеносным сосудам, заставляя пользователей чувствовать себя счастливыми. Не накладывается на йойо и хлопья.</BlueYoHigh.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HPF/WorkGiverDefs.xml-->
+                       <!-- draw blood -->
+<ExtractDeepBlue_Work.label>пустить кровь</ExtractDeepBlue_Work.label>
+                      <!-- draw blood -->
+<ExtractDeepBlue_Work.verb>пустить кровь</ExtractDeepBlue_Work.verb>
+                        <!-- drawing blood -->
+<ExtractDeepBlue_Work.gerund>слив крови</ExtractDeepBlue_Work.gerund>
+
+</LanguageData>

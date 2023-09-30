@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Belial-V_Effect.xml-->
+                  <!-- Belial-agility -->
+<BelialVEffect_2.label>Белиал-ловкость</BelialVEffect_2.label>
+                        <!-- Belial-V's empowering effect. This effect grants nimble movement. A 'demon's little favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_2.description>Это укрепляющий эффект Белиала-V. Дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_2.description>
+                   <!-- Belial-haste -->
+<BelialVEffect_2U.label>Белиал-скорость</BelialVEffect_2U.label>
+                         <!-- Belial-V's empowering effect. This effect grants extreme speed. A 'demon's favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_2U.description>Это укрепляющий эффект Белиала-V. Обеспечивает экстремальную скорость. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_2U.description>
+                  <!-- Belial-sense -->
+<BelialVEffect_3.label>Белиал-чувство</BelialVEffect_3.label>
+                        <!-- Belial-V's empowering effect. This effect grants improved senses. A 'demon's little favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_3.description>Это укрепляющий эффект Белиала-V. Улучшает восприятие. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_3.description>
+                   <!-- Belial-hypersense -->
+<BelialVEffect_3U.label>Белиал-супер чувства</BelialVEffect_3U.label>
+                         <!-- Belial-V's empowering effect. This effect grants supernatural senses. A 'demon's favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_3U.description>Это укрепляющий эффект Белиала-V. Наделяет сверхъестественными чувствами. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_3U.description>
+                  <!-- Belial-endurance -->
+<BelialVEffect_4.label>Белиал-терпение</BelialVEffect_4.label>
+                        <!-- Belial-V's empowering effect. This effect grants improved toughness. A 'demon's favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_4.description>Укрепляющий эффект Белиала-V. Обеспечивает повышенную прочность. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы</BelialVEffect_4.description>
+                   <!-- Belial-fortitude -->
+<BelialVEffect_4U.label>Белиал-Сила</BelialVEffect_4U.label>
+                         <!-- Belial-V's empowering effect. This effect grants adamantine resiliance. A 'demon's great favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_4U.description>Это укрепляющий эффект Белиала-V. Придает несокрушимую упругость. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_4U.description>
+                  <!-- Belial-serenity -->
+<BelialVEffect_5.label>Белиал-спокойствие</BelialVEffect_5.label>
+                        <!-- Belial-V's empowering effect. Дарует спокойный ум. A 'demon's little favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_5.description>Это укрепляющий эффект Белиала-V. Этот эффект дает цели быстрое движение. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_5.description>
+                  <!-- Belial-euphoria -->
+<BelialVEffect_6.label>Белиал-радость</BelialVEffect_6.label>
+                        <!-- Belial-V's empowering effect. This effect grants a euphoric high. A 'demon's little favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_6.description>Это укрепляющий эффект Белиала-V. Вызывает эйфорию. Это «дьявольская услуга» взамен зависимости от Глубокой Синевы.</BelialVEffect_6.description>
+                  <!-- Belial-focus -->
+<BelialVEffect_7.label>Белиал-сосредоточиность</BelialVEffect_7.label>
+                        <!-- Belial-V's empowering effect. This effect grants a clear goal. A 'demon's favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_7.description>Это укрепляющий эффект Белиала-V. Дает четкую цель. Это «дьявольская услуга» взамен Глубокой Синевы.</BelialVEffect_7.description>
+                   <!-- Belial-Hyperfocus -->
+<BelialVEffect_7U.label>Белиал-Гиперфокусировка</BelialVEffect_7U.label>
+                         <!-- Belial-V's empowering effect. This effect grants an impermeable focus. A 'demon's great favour', pleased by your tribute of deepblue. -->
+<BelialVEffect_7U.description>Укрепляющий эффект Белиала-V. Этот эффект создает непроницаемый фокус. "Великая милость демона", довольно вашей данью Глубокой Синевы.</BelialVEffect_7U.description>
+
+</LanguageData>

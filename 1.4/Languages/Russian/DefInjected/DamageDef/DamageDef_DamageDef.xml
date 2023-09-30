@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/DamageDefs/DamageDef.xml-->
+                  <!-- chargebolt -->
+<Moyo_ChargeBolt.label>Электромагнитный разряд</Moyo_ChargeBolt.label>
+                         <!-- {0} has been shot to death. -->
+<Moyo_ChargeBolt.deathMessage>{0} Был застрелен.</Moyo_ChargeBolt.deathMessage>
+            <!-- frostbite -->
+<Moyo_Cryo.label>обморожение</Moyo_Cryo.label>
+                   <!-- {0} has succumbed to frostbite. -->
+<Moyo_Cryo.deathMessage>{0} умер от обморожения.</Moyo_Cryo.deathMessage>
+                  <!-- blunt -->
+<HexapodTentacle.label>отупел</HexapodTentacle.label>
+
+</LanguageData>

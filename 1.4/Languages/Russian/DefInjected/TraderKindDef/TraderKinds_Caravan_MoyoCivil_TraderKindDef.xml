@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/TraderKindDefs/TraderKinds_Caravan_MoyoCivil.xml-->
+                              <!-- bulk goods trader -->
+<Caravan_MoyoCivil_BulkGoods.label>торговец товарами</Caravan_MoyoCivil_BulkGoods.label>
+                                   <!-- combat supplier -->
+<Caravan_MoyoCivil_CombatSupplier.label>боевой поставщик</Caravan_MoyoCivil_CombatSupplier.label>
+                                   <!-- slaver -->
+<Caravan_MoyoCivil_PirateMerchant.label>работорговец</Caravan_MoyoCivil_PirateMerchant.label>
+                           <!-- exotic goods trader -->
+<Caravan_MoyoCivil_Exotic.label>торговец экзотикой</Caravan_MoyoCivil_Exotic.label>
+
+</LanguageData>

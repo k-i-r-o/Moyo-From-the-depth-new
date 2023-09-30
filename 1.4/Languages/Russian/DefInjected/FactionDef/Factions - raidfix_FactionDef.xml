@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/FactionDefs/Factions - raidfix.xml-->
+                     <!-- Refugees -->
+<Moyo_PlayerFaction.label>Беженцы</Moyo_PlayerFaction.label>
+                           <!-- A settlement made by the moyo who have left the lighthouse for various reasons. -->
+<Moyo_PlayerFaction.description>Это убежище построили Мойо, которые по разным причинам покинули маяк.</Moyo_PlayerFaction.description>
+                            <!-- colonist -->
+<Moyo_PlayerFaction.pawnSingular>Поселенец</Moyo_PlayerFaction.pawnSingular>
+                           <!-- colonists -->
+<Moyo_PlayerFaction.pawnsPlural>Поселенцы</Moyo_PlayerFaction.pawnsPlural>
+                    <!-- moyo refugee haven -->
+<Moyo_HavenFaction.label>Убежище Мойо</Moyo_HavenFaction.label>
+                          <!-- A settlement of moyo who left the lighthouse for the surface.
+
+The moyos who have left the lighthouse, whether it be to escape the civil war or simply to trade with the surface, have banded together for survival. -->
+<Moyo_HavenFaction.description>Это поселение Мойо, которые покинули маяк и вышли на поверхность. \n\nМойо, покинувшие маяк по разным причинам, таким как гражданская война, корабль-база, побег, торговля с землей и т.д., Объединились, чтобы выжить.</Moyo_HavenFaction.description>
+                          <!-- Refugee Haven elder -->
+<Moyo_HavenFaction.leaderTitle>Беженец старейшина</Moyo_HavenFaction.leaderTitle>
+                           <!-- Moyo -->
+<Moyo_HavenFaction.pawnSingular>Мойо</Moyo_HavenFaction.pawnSingular>
+                          <!-- Moyos -->
+<Moyo_HavenFaction.pawnsPlural>Мойо</Moyo_HavenFaction.pawnsPlural>
+                    <!-- moyo refugee radicals -->
+<Moyo_HavenHostile.label>Враждебные беженцы</Moyo_HavenHostile.label>
+                          <!-- A settlement of moyo who left the lighthouse for the surface.
+
+They are the radicals from the refugees, saying power and dominance over the region is the key to peace. This conflict of idea has lead them to split themselves apart from the haven. -->
+<Moyo_HavenHostile.description>Это поселение Мойо, которые покинули маяк и подошел к земле. \n\nЭто экстремисты беженцев, кричащие о том, что мир требует сильной власти и контроля над окружающей местностью. Из-за разногласий они отделились от других беженцев.</Moyo_HavenHostile.description>
+                          <!-- Radical haven elder -->
+<Moyo_HavenHostile.leaderTitle>Генерал беженцев</Moyo_HavenHostile.leaderTitle>
+                           <!-- Moyo -->
+<Moyo_HavenHostile.pawnSingular>Мойо</Moyo_HavenHostile.pawnSingular>
+                          <!-- Moyos -->
+<Moyo_HavenHostile.pawnsPlural>Мойо</Moyo_HavenHostile.pawnsPlural>
+
+</LanguageData>

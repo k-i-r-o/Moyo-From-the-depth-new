@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Items/MechWeaponsDef.xml-->
+                     <!-- moyo cryoblast -->
+<Bullet_MoyoCRBlast.label>криобласт мойо</Bullet_MoyoCRBlast.label>
+                 <!-- moyo heavy cryorifle -->
+<Moyo_CryoRifle.label>тяжелый криогенный аппарат мойо</Moyo_CryoRifle.label>
+                       <!-- A mid-range cryotech weapon which shoots a cryogenic bomb like a cannon.Usually equipped on cryopods, this weapon is not designed for human use. -->
+<Moyo_CryoRifle.description>Криотехническое оружие средней дальности, которое стреляет криогенной бомбой подобно пушке. Обычно оснащаемое криоподами, это оружие не предназначено для использования человеком.</Moyo_CryoRifle.description>
+                         <!-- barrel -->
+<Moyo_CryoRifle.tools.0.label>barrel</Moyo_CryoRifle.tools.0.label>
+
+</LanguageData>

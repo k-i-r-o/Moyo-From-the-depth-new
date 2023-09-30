@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Races/MoyoMechs.xml-->
+                       <!-- pressurepod -->
+<MoyoPressurePod_Kind.label>pressurepod</MoyoPressurePod_Kind.label>
+                             <!-- Plural pressurepod -->
+<MoyoPressurePod_Kind.labelPlural>Plural pressurepod</MoyoPressurePod_Kind.labelPlural>
+                           <!-- Male pressurepod -->
+<MoyoPressurePod_Kind.labelMale>Male pressurepod</MoyoPressurePod_Kind.labelMale>
+                                 <!-- Male Plural pressurepod -->
+<MoyoPressurePod_Kind.labelMalePlural>Male Plural pressurepod</MoyoPressurePod_Kind.labelMalePlural>
+                             <!-- Female pressurepod -->
+<MoyoPressurePod_Kind.labelFemale>Female pressurepod</MoyoPressurePod_Kind.labelFemale>
+                                   <!-- Female Plural pressurepod -->
+<MoyoPressurePod_Kind.labelFemalePlural>Female Plural pressurepod</MoyoPressurePod_Kind.labelFemalePlural>
+                   <!-- hexapod -->
+<MoyoHexapod_Kind.label>гексапод</MoyoHexapod_Kind.label>
+                         <!-- Plural hexapod -->
+<MoyoHexapod_Kind.labelPlural>Гексаподы</MoyoHexapod_Kind.labelPlural>
+                       <!-- Male hexapod -->
+<MoyoHexapod_Kind.labelMale>Мужчина гексапод</MoyoHexapod_Kind.labelMale>
+                             <!-- Male Plural hexapod -->
+<MoyoHexapod_Kind.labelMalePlural>Мужчины гексаподы</MoyoHexapod_Kind.labelMalePlural>
+                         <!-- Female hexapod -->
+<MoyoHexapod_Kind.labelFemale>Женщина гексапод</MoyoHexapod_Kind.labelFemale>
+                               <!-- Female Plural hexapod -->
+<MoyoHexapod_Kind.labelFemalePlural>Женщины гексаподы</MoyoHexapod_Kind.labelFemalePlural>
+                   <!-- cryopod -->
+<MoyoCryopod_Kind.label>криопод</MoyoCryopod_Kind.label>
+                         <!-- Plural cryopod -->
+<MoyoCryopod_Kind.labelPlural>Криоподы</MoyoCryopod_Kind.labelPlural>
+                       <!-- Male cryopod -->
+<MoyoCryopod_Kind.labelMale>Мужчина криопод</MoyoCryopod_Kind.labelMale>
+                             <!-- Male Plural cryopod -->
+<MoyoCryopod_Kind.labelMalePlural>Мужчины криоподы</MoyoCryopod_Kind.labelMalePlural>
+                         <!-- Female cryopod -->
+<MoyoCryopod_Kind.labelFemale>Женщина криопод</MoyoCryopod_Kind.labelFemale>
+                               <!-- Female Plural cryopod -->
+<MoyoCryopod_Kind.labelFemalePlural>Женщины криоподы</MoyoCryopod_Kind.labelFemalePlural>
+
+</LanguageData>

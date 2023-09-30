@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Races/MoyoRace.xml-->
+               <!-- teenager -->
+<MoyoTeenager.label>подросток</MoyoTeenager.label>
+                   <!-- teenage -->
+<MoyoTeenager.adjective>подростковый</MoyoTeenager.adjective>
+
+</LanguageData>

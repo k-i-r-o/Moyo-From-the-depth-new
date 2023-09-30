@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Deep_Blue.xml-->
+                 <!-- Moyo Inate Hediff -->
+<MoyoBaseHediff.label>Врождённое отличие Мойо</MoyoBaseHediff.label>
+                       <!-- This pawn is a Moyo, and will not be affected by deepblue. You should not be reading this. -->
+<MoyoBaseHediff.description>Эта поселенец Мойо, и на наё не действует Глубокая Синева.</MoyoBaseHediff.description>
+            <!-- Deep blues -->
+<DeepBlues.label>Глубокая Синева</DeepBlues.label>
+                  <!-- Deepblue increases pawn's capabilities. as a side-effect, The user will feel a bit blue. Beacuse there are no known ways to reverse the modification caused by deepblue, This effect cannot be reversed. -->
+<DeepBlues.description>Увеличивает возможности поселенца. как побочный эффект, пользователь будет чувствовать себя немного посиневшим. Поскольку не существует известных способов отменить модификацию, вызванную Глубокой Синевой, этот эффект нельзя отменить.</DeepBlues.description>
+                    <!-- Deepblue tolerance -->
+<DeepBlueTolerance.label>Толерантность к Глубокой Синеве</DeepBlueTolerance.label>
+                          <!-- Cells modified with deepblue gain tolerance to the substance as time goes on. More deepblue will be needed to suit the body's needs. -->
+<DeepBlueTolerance.description>Клетки, преобразованные в Глубокая Синева, со временем становятся все более нечувствительными к Глубокой Синеве. потребуется больше Глубокой Синевы, чтобы удовлетворить потребности организма.</DeepBlueTolerance.description>
+                    <!-- Deepblue dependency -->
+<DeepBlueAddiction.label>Зависимость от Глубокой Синевы</DeepBlueAddiction.label>
+                          <!-- Once modified by deepblue, the body requires deepblue to fuel their metabolism. They will go into hibernation if not enough deepblue is supplied. -->
+<DeepBlueAddiction.description>Тело, преобразованное Глубокой Синевой, постоянно поглощает её из тела, чтобы поддерживать свою функцию. Модифицированные клетки, использующие Глубокую Синеву как часть своего метаболизма, они перейдут в спячку, если недостаточно темно-синего.</DeepBlueAddiction.description>
+                                                                <!-- Deepblue dependent -->
+<DeepBlueAddiction.comps.HediffComp_Discoverable.discoverLetterLabel>Зависимость от Глубокой Синевы </DeepBlueAddiction.comps.HediffComp_Discoverable.discoverLetterLabel>
+                                                               <!-- {0} has developed a dependency to deepblue.
+
+[PAWN_pronoun] now has a need for deepblue, visible on [PAWN_pronoun] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_pronoun] need. If [PAWN_pronoun] cannot get any deepblue, [PAWN_pronoun] will go into hibernation. -->
+<DeepBlueAddiction.comps.HediffComp_Discoverable.discoverLetterText>{0} у него/неё развилась зависимость от Глубокой Синевы.\n\n у [PAWN_pronoun] теперь есть потребность в Глубокой Синеве, видимая на вкладке потребности [PAWN_pronoun]. [PAWN_pronoun] автоматически употребит препарат для удовлетворения потребности [PAWN_pronoun]. Если [PAWN_pronoun] не сможет получить Глубокую Синеву, [PAWN_pronoun] перейдет в спящий режим.</DeepBlueAddiction.comps.HediffComp_Discoverable.discoverLetterText>
+                             <!-- hibernation -->
+<DeepBlueAddiction.stages.1.label>Гибернация</DeepBlueAddiction.stages.1.label>
+                  <!-- Deepblue_Filter -->
+<Deepblue_Filter.label>Deepblue_Filter</Deepblue_Filter.label>
+                        <!-- This pawn is a Moyo, and will not be affected by deepblue. You should not be reading this. -->
+<Deepblue_Filter.description>Эта поселенец Мойо, и на наё не действует Глубокая Синева.</Deepblue_Filter.description>
+                        <!-- Deepblue Rejection -->
+<Moyo_DeepBlueReaction.label>Отказ от Глубокой Синевы</Moyo_DeepBlueReaction.label>
+                              <!-- Too much deepblue injected to a Moyo's body. it has no health consequences but the pawn will suffer from nausea. -->
+<Moyo_DeepBlueReaction.description>Слишком много Глубокой Синевы введено в тело Мойо. это не имеет последствий для здоровья, но поселенец будет страдать от тошноты.</Moyo_DeepBlueReaction.description>
+                                 <!-- initial -->
+<Moyo_DeepBlueReaction.stages.0.label>начальный</Moyo_DeepBlueReaction.stages.0.label>
+                                 <!-- minor -->
+<Moyo_DeepBlueReaction.stages.1.label>незначительный</Moyo_DeepBlueReaction.stages.1.label>
+                                 <!-- major -->
+<Moyo_DeepBlueReaction.stages.2.label>серьёзный</Moyo_DeepBlueReaction.stages.2.label>
+                                 <!-- extreme -->
+<Moyo_DeepBlueReaction.stages.3.label>серьёзный</Moyo_DeepBlueReaction.stages.3.label>
+
+</LanguageData>

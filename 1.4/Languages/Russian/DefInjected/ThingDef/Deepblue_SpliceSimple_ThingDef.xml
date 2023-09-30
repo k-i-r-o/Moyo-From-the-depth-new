@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Deepblue_SpliceSimple.xml-->
+               <!-- Bluemed -->
+<MoyoMedicine.label>Синий Мед</MoyoMedicine.label>
+                     <!-- A medicine containing deepblue. deepblue increases the medicine's effectiveness while having no worries of deepblue dependancy. -->
+<MoyoMedicine.description>Лекарство, содержащее Глубокую Синеву. Глубокая Синева увеличивает эффективность лекарства, не беспокоясь о зависимости от неё.</MoyoMedicine.description>
+         <!-- morphi-blue -->
+<BlueGo.label>синий-морфи</BlueGo.label>
+               <!-- A cocktail of deepblue and a drug. Causes deepblue dependancy when used and provides effect of Go-juice. It's faster to use and the effect last a bit longer.
+
+Deepblue cocktail does not have dangers of addiction or overdose of used drug. -->
+<BlueGo.description>Коктейль из синего и Go-сока. При использовании вызывает привыкание к Глубокой Синеве и дает эффект Go-сока. Это быстрее в использовании, а эффект длится немного дольше. \n\nКоктейль Глубокой синевы не имеет опасностей, связанных с передозировкой употребляемых наркотиков, а также удовлетворяет связанные потребности.</BlueGo.description>
+                                  <!-- Inject {0} -->
+<BlueGo.ingestible.ingestCommandString>Ввести {0}</BlueGo.ingestible.ingestCommandString>
+                                 <!-- Injecting {0}. -->
+<BlueGo.ingestible.ingestReportString>Вводится {0}.</BlueGo.ingestible.ingestReportString>
+         <!-- sapphire meth -->
+<BlueUp.label>сапфировый мет</BlueUp.label>
+               <!-- A cocktail of deepblue and a drug. Causes deepblue dependancy when used and provides effect of Wakeup. It's faster to use and the effect last a bit longer.
+
+Deepblue cocktail does not have dangers of addiction or overdose of used drug. -->
+<BlueUp.description>Коктейль из синего и Go-сока. При использовании вызывает привыкание к Глубокой Синеве и обеспечивает эффект пробуждения. Быстрее в использовании, а эффект длится немного дольше. \n\nКоктейль Глубокой синевы не несет опасности передозировки употребляемых наркотиков, а также удовлетворяет связанные с этим потребности.</BlueUp.description>
+                                  <!-- Inject {0} -->
+<BlueUp.ingestible.ingestCommandString>Ввести {0}</BlueUp.ingestible.ingestCommandString>
+                                 <!-- Injecting {0}. -->
+<BlueUp.ingestible.ingestReportString>Вводится {0}.</BlueUp.ingestible.ingestReportString>
+         <!-- blue haze -->
+<BlueYo.label>синяя Мгла</BlueYo.label>
+               <!-- A cocktail of deepblue and a drug. Causes deepblue dependancy when used and provides effect of psychite. It's faster to use and the effect last a bit longer.
+
+Deepblue cocktail does not have dangers of addiction or overdose of used drug. -->
+<BlueYo.description>Коктейль из синего и порошка психина. При использовании вызывает зависимость от глубокой синевы и дает эффект психита. Его можно использовать быстрее, а эффект длится немного дольше.\n\nКоктейль Глубокой Синевы не имеет опасностей, связанных с передозировкой употребляемых наркотиков, а также удовлетворяет связанные потребности.</BlueYo.description>
+                                  <!-- Inject {0} -->
+<BlueYo.ingestible.ingestCommandString>Ввести {0}</BlueYo.ingestible.ingestCommandString>
+                                 <!-- Injecting {0}. -->
+<BlueYo.ingestible.ingestReportString>Вводится {0}.</BlueYo.ingestible.ingestReportString>
+
+</LanguageData>

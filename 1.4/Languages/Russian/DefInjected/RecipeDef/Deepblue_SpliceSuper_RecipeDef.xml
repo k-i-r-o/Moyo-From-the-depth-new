@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Deepblue_SpliceSuper.xml-->
+                             <!-- administer abysstech healer mech serum -->
+<AdministerMoyo_HealerSerum.label>administer abysstech healer mech serum</AdministerMoyo_HealerSerum.label>
+                                   <!-- Administer an abysstech healer mech serum. -->
+<AdministerMoyo_HealerSerum.description>Administer an abysstech healer mech serum.</AdministerMoyo_HealerSerum.description>
+                                 <!-- Administering abysstech healer mech serum. -->
+<AdministerMoyo_HealerSerum.jobString>Administering abysstech healer mech serum.</AdministerMoyo_HealerSerum.jobString>
+
+</LanguageData>

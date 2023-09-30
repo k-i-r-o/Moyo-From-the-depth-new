@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/FlecksDef/Flecks.xml-->
+                     <!-- Mote -->
+<Mote_MoyoCryoBlast.label>Mote</Mote_MoyoCryoBlast.label>
+                   <!-- Mote -->
+<Mote_MoyoCBSmoke.label>Mote</Mote_MoyoCBSmoke.label>
+                <!-- water puddle -->
+<Filth_CBWater.label>water puddle</Filth_CBWater.label>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Deep_Blue.xml-->
+                           <!-- Deep blues -->
+<DeepBlueThought.stages.0.label>Глубокая Синева</DeepBlueThought.stages.0.label>
+                                 <!-- As a side-effect of deepblue, you feel a bit blue. -->
+<DeepBlueThought.stages.0.description>Как побочный эффект глубокой синевы, вы чувствуете себя немного посиневшим.</DeepBlueThought.stages.0.description>
+                                        <!-- DeepBlue Rejection(initial) -->
+<Moyo_DeepBlueReactionThought.stages.0.label>DeepBlue Rejection(initial)</Moyo_DeepBlueReactionThought.stages.0.label>
+                                              <!-- Something feels off... -->
+<Moyo_DeepBlueReactionThought.stages.0.description>Что-то кажется не так...</Moyo_DeepBlueReactionThought.stages.0.description>
+                                        <!-- DeepBlue Rejection(minor) -->
+<Moyo_DeepBlueReactionThought.stages.1.label>DeepBlue Rejection(minor)</Moyo_DeepBlueReactionThought.stages.1.label>
+                                              <!-- I feel sick... -->
+<Moyo_DeepBlueReactionThought.stages.1.description>Я чувствую себя больным...</Moyo_DeepBlueReactionThought.stages.1.description>
+                                        <!-- DeepBlue Rejection(major) -->
+<Moyo_DeepBlueReactionThought.stages.2.label>DeepBlue Rejection(major)</Moyo_DeepBlueReactionThought.stages.2.label>
+                                              <!-- Everything is blue... ugh! -->
+<Moyo_DeepBlueReactionThought.stages.2.description>Все синее... тьфу!</Moyo_DeepBlueReactionThought.stages.2.description>
+                                        <!-- DeepBlue Rejection(extreme) -->
+<Moyo_DeepBlueReactionThought.stages.3.label>DeepBlue Rejection(extreme)</Moyo_DeepBlueReactionThought.stages.3.label>
+                                              <!-- (horrible noises) -->
+<Moyo_DeepBlueReactionThought.stages.3.description>(horrible noises)</Moyo_DeepBlueReactionThought.stages.3.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Drugs/Deep_Blue.xml-->
+                    <!-- Deepblue -->
+<Chemical_Deepblue.label>Глубокая синева</Chemical_Deepblue.label>
+                          <!-- Constant supply of deepblue is needed due to deepblue injection. Beacuse there are no known ways to reverse the modification caused by deepblue, This effect cannot be reversed. -->
+<Chemical_Deepblue.description>Постоянная подача Глубокой сниевы необходима из-за её иньекции. Поскольку нет известных способов отменить изменения, вызванные глубокой синевой, этот эффект нельзя отменить.</Chemical_Deepblue.description>
+
+</LanguageData>

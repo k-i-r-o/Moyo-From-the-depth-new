@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/StatDef/Stats_Moyo_Deepblue.xml-->
+               <!-- Deeplbue production amount -->
+<DeepblueStat.label>Объем производства Глубокой Синевы</DeepblueStat.label>
+                     <!-- How much deepblue this pawn provides. -->
+<DeepblueStat.description>Сколько Глубокой Синевы цвета дает эта мойо.</DeepblueStat.description>
+                    <!-- Deeplbue production speed -->
+<DeepblueStatSpeed.label>Скорость производства Глубокой Синевы</DeepblueStatSpeed.label>
+                          <!-- How fast this pawn provides deepblue. -->
+<DeepblueStatSpeed.description>Насколько быстро эта мойо вырабатывает Глубокую Синеву.</DeepblueStatSpeed.description>
+
+</LanguageData>

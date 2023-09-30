@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/HediffDefs/Hediffs_Damage.xml-->
+                      <!-- constriction -->
+<HexapodConstriction.label>скованность</HexapodConstriction.label>
+                            <!-- Constricted by hexapod's tentacle interfereing with the victim's movements. -->
+<HexapodConstriction.description>Скованность щупальцец Гексапода, что мешает движению.</HexapodConstriction.description>
+                    <!-- cryonic hypothermia -->
+<Moyo_CryoSlowdown.label>криогенная гипотермия</Moyo_CryoSlowdown.label>
+                          <!-- A sudden drop of body temperature casued by cryoweapon. The body will soon return to normal state. However, this will lead to death if it gets too severe. -->
+<Moyo_CryoSlowdown.description>Это внезапное снижение температуры тела, вызванное криогенным оружием. Со временем он вернется в исходное состояние, но если станет слишком тяжелым, это приведет к смерти.</Moyo_CryoSlowdown.description>
+                             <!-- shivering -->
+<Moyo_CryoSlowdown.stages.0.label>озноб</Moyo_CryoSlowdown.stages.0.label>
+                             <!-- shivering -->
+<Moyo_CryoSlowdown.stages.1.label>легкий</Moyo_CryoSlowdown.stages.1.label>
+                             <!-- minor -->
+<Moyo_CryoSlowdown.stages.2.label>незначительный</Moyo_CryoSlowdown.stages.2.label>
+                             <!-- serious -->
+<Moyo_CryoSlowdown.stages.3.label>серьезный</Moyo_CryoSlowdown.stages.3.label>
+                             <!-- extreme -->
+<Moyo_CryoSlowdown.stages.4.label>экстремальный</Moyo_CryoSlowdown.stages.4.label>
+
+</LanguageData>
