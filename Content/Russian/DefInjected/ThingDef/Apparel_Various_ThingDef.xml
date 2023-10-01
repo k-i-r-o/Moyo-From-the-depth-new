@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Items/Apparel_Various.xml-->
+              <!-- moyo bodywrappings -->
+<Moyo_Tribal.label>moyo bodywrappings</Moyo_Tribal.label>
+                    <!-- Hastily made clothes with long bandages. Takes a while to fully wrap around you and quite crude, but many a moyo owe their lives to this simple piece of cloth. -->
+<Moyo_Tribal.description>Hastily made clothes with long bandages. Takes a while to fully wrap around you and quite crude, but many a moyo owe their lives to this simple piece of cloth.</Moyo_Tribal.description>
+             <!-- moyo parka -->
+<Moyo_Parka.label>moyo parka</Moyo_Parka.label>
+                   <!-- A parka for moyos to keep warm. -->
+<Moyo_Parka.description>A parka for moyos to keep warm.</Moyo_Parka.description>
+                 <!-- Moyo slave restrainer -->
+<Moyo_BodyStrap.label>Moyo slave restrainer</Moyo_BodyStrap.label>
+                       <!-- A suit of straps, collar and shackle to restrain slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion. -->
+<Moyo_BodyStrap.description>A suit of straps, collar and shackle to restrain slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion.</Moyo_BodyStrap.description>
+           <!-- moyo shirt and boots -->
+<Moyo_SnB.label>moyo shirt and boots</Moyo_SnB.label>
+                 <!-- a suit of clothes with shirt and boots. its better than bodywrappings in every way. -->
+<Moyo_SnB.description>a suit of clothes with shirt and boots. its better than bodywrappings in every way.</Moyo_SnB.description>
+              <!-- moyo jacket -->
+<Moyo_Jacket.label>moyo jacket</Moyo_Jacket.label>
+                    <!-- A sturdy jacket to protect the body from harm. -->
+<Moyo_Jacket.description>A sturdy jacket to protect the body from harm.</Moyo_Jacket.description>
+              <!-- moyo duster -->
+<Moyo_Duster.label>moyo duster</Moyo_Duster.label>
+                    <!-- A long coat that offers protection from the sun and wind. -->
+<Moyo_Duster.description>A long coat that offers protection from the sun and wind.</Moyo_Duster.description>
+             <!-- moyo tuque -->
+<Moyo_Tuque.label>moyo tuque</Moyo_Tuque.label>
+                   <!-- A thick fluffy hat. Helps maintain body temperature. -->
+<Moyo_Tuque.description>A thick fluffy hat. Helps maintain body temperature.</Moyo_Tuque.description>
+                 <!-- moyo cowboyhat -->
+<Moyo_CowboyHat.label>moyo cowboyhat</Moyo_CowboyHat.label>
+                       <!-- A traditional western hat that blocks sun and rain, and makes you look more charismatic to boot. However, not quite designed to accommodate a moyo’s feelers. -->
+<Moyo_CowboyHat.description>A traditional western hat that blocks sun and rain, and makes you look more charismatic to boot. However, not quite designed to accommodate a moyo’s feelers.</Moyo_CowboyHat.description>
+                 <!-- moyo bowlerhat -->
+<Moyo_BowlerHat.label>moyo bowlerhat</Moyo_BowlerHat.label>
+                       <!-- A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. Not designed with head feelers in mind. -->
+<Moyo_BowlerHat.description>A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. Not designed with head feelers in mind.</Moyo_BowlerHat.description>
+                <!-- moyo bodysuit -->
+<Moyo_Bodysuit.label>moyo bodysuit</Moyo_Bodysuit.label>
+                      <!-- Protective suit for temperature-sensitive moyos. Looks stylish as well. -->
+<Moyo_Bodysuit.description>Protective suit for temperature-sensitive moyos. Looks stylish as well.</Moyo_Bodysuit.description>
+              <!-- moyo engineering gear -->
+<Moyo_EGsuit.label>moyo engineering gear</Moyo_EGsuit.label>
+                    <!-- A suit worn by moyo engineers. Grants protection from the heat of the middle layer, as well as any accidents. -->
+<Moyo_EGsuit.description>A suit worn by moyo engineers. Grants protection from the heat of the middle layer, as well as any accidents.</Moyo_EGsuit.description>
+              <!-- moyo welding mask -->
+<Moyo_EGmask.label>moyo welding mask</Moyo_EGmask.label>
+                    <!-- A mask that blocks extreme heat and light. Also provides physical protection for the face. -->
+<Moyo_EGmask.description>A mask that blocks extreme heat and light. Also provides physical protection for the face.</Moyo_EGmask.description>
+               <!-- moyo composite bodySuit -->
+<Moyo_Evasuit.label>moyo composite bodySuit</Moyo_Evasuit.label>
+                     <!-- Reinforced with various materials, the suit is quite tough and provides boasts a high temperature resistance. -->
+<Moyo_Evasuit.description>Reinforced with various materials, the suit is quite tough and provides boasts a high temperature resistance.</Moyo_Evasuit.description>
+              <!-- moyo deepdiving gear -->
+<Moyo_DDgear.label>moyo deepdiving gear</Moyo_DDgear.label>
+                    <!-- Diving suit designed for deep sea use. Made with thick abysteel plates to resist the water pressure and filled with various support modules, making it quite heavy.
+
+The lighthouse relied on mechanoids for most deep sea work, but as the number of operable mechanoids decreased, they had to rely more and more on manpower. -->
+<Moyo_DDgear.description>Diving suit designed for deep sea use. Made with thick abysteel plates to resist the water pressure and filled with various support modules, making it quite heavy.\n\nThe lighthouse relied on mechanoids for most deep sea work, but as the number of operable mechanoids decreased, they had to rely more and more on manpower.</Moyo_DDgear.description>
+                <!-- moyo deepdiving helmet -->
+<Moyo_DDhelmet.label>moyo deepdiving helmet</Moyo_DDhelmet.label>
+                      <!-- Deep sea helmet used with the deep diving suit. Just as large, heavy, and protective as the suit. Both are required to go underwater, but no such problems exist on the surface.
+
+As the civil war raged on, it was only a matter of time before they were repurposed for military needs. -->
+<Moyo_DDhelmet.description>Deep sea helmet used with the deep diving suit. Just as large, heavy, and protective as the suit. Both are required to go underwater, but no such problems exist on the surface.\n\nAs the civil war raged on, it was only a matter of time before they were repurposed for military needs.</Moyo_DDhelmet.description>
+              <!-- moyo diving gear -->
+<Moyo_LDgear.label>moyo diving gear</Moyo_LDgear.label>
+                    <!-- Diving suit for underwater work. Grants protection from the outside environment while still allowing freedom of movement.
+
+Originally, this was the only diving suit used by the moyo, but as the need for deep sea diving grew, the diving suits where modified into the thicker-and more protective-deep diving suits. -->
+<Moyo_LDgear.description>Diving suit for underwater work. Grants protection from the outside environment while still allowing freedom of movement.\n\nOriginally, this was the only diving suit used by the moyo, but as the need for deep sea diving grew, the diving suits where modified into the thicker-and more protective-deep diving suits.</Moyo_LDgear.description>
+                <!-- moyo diving helmet -->
+<Moyo_LDhelmet.label>moyo diving helmet</Moyo_LDhelmet.label>
+                      <!-- Helmet paired with the diving suit. Comes with a HUD and a wide visor to allow for a wide view.
+
+Mainly used in the upper and middle levels, it wasn’t much trouble for smugglers to acquire some for their own use. An armed riot caused by a group of moyo in diving suits was what sparked the civil war. -->
+<Moyo_LDhelmet.description>Helmet paired with the diving suit. Comes with a HUD and a wide visor to allow for a wide view.\n\nMainly used in the upper and middle levels, it wasn’t much trouble for smugglers to acquire some for their own use. An armed riot caused by a group of moyo in diving suits was what sparked the civil war.</Moyo_LDhelmet.description>
+                <!-- moyo Sensory control helmet(Soothing) -->
+<Moyo_PShelmet.label>moyo Sensory control helmet(Soothing)</Moyo_PShelmet.label>
+                      <!-- A helmet with a visual and auditory interface. It can alter sensory inputs depending on its configuration. This helmet is set to soothing mode.
+
+From entertainment to therapeutic use, This helmet can be used in various area if respective software is provided. Its a shame such softwares are not easily found in rimworld. -->
+<Moyo_PShelmet.description>A helmet with a visual and auditory interface. It can alter sensory inputs depending on its configuration. This helmet is set to soothing mode.\n\nFrom entertainment to therapeutic use, This helmet can be used in various area if respective software is provided. Its a shame such softwares are not easily found in rimworld.</Moyo_PShelmet.description>
+                <!-- moyo Sensory control helmet(Supressing) -->
+<Moyo_SShelmet.label>moyo Sensory control helmet(Supressing)</Moyo_SShelmet.label>
+                      <!-- A helmet with a visual and auditory interface. It can alter sensory inputs depending on its configuration. This helmet is set to supressing mode.
+
+Oppression is one of its 'various area of use', Used by some questionable police forces or agents of the elders. -->
+<Moyo_SShelmet.description>A helmet with a visual and auditory interface. It can alter sensory inputs depending on its configuration. This helmet is set to supressing mode.\n\nOppression is one of its 'various area of use', Used by some questionable police forces or agents of the elders.</Moyo_SShelmet.description>
+
+</LanguageData>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BodyAndPartDefs/Body.xml-->
+       <!-- Moyo -->
+<Moyo.label>Moyo</Moyo.label>
+                              <!-- tail -->
+<Moyo.corePart.parts.4.customLabel>tail</Moyo.corePart.parts.4.customLabel>
+                              <!-- left lung -->
+<Moyo.corePart.parts.7.customLabel>left lung</Moyo.corePart.parts.7.customLabel>
+                              <!-- right lung -->
+<Moyo.corePart.parts.8.customLabel>right lung</Moyo.corePart.parts.8.customLabel>
+                              <!-- left kidney -->
+<Moyo.corePart.parts.9.customLabel>left kidney</Moyo.corePart.parts.9.customLabel>
+                               <!-- right kidney -->
+<Moyo.corePart.parts.10.customLabel>right kidney</Moyo.corePart.parts.10.customLabel>
+                                               <!-- left eye -->
+<Moyo.corePart.parts.12.parts.0.parts.1.customLabel>left eye</Moyo.corePart.parts.12.parts.0.parts.1.customLabel>
+                                               <!-- right eye -->
+<Moyo.corePart.parts.12.parts.0.parts.2.customLabel>right eye</Moyo.corePart.parts.12.parts.0.parts.2.customLabel>
+                                               <!-- left antennae -->
+<Moyo.corePart.parts.12.parts.0.parts.3.customLabel>left antennae</Moyo.corePart.parts.12.parts.0.parts.3.customLabel>
+                                               <!-- right antennae -->
+<Moyo.corePart.parts.12.parts.0.parts.4.customLabel>right antennae</Moyo.corePart.parts.12.parts.0.parts.4.customLabel>
+                               <!-- left shoulder -->
+<Moyo.corePart.parts.13.customLabel>left shoulder</Moyo.corePart.parts.13.customLabel>
+                                       <!-- left clavicle -->
+<Moyo.corePart.parts.13.parts.0.customLabel>left clavicle</Moyo.corePart.parts.13.parts.0.customLabel>
+                                       <!-- left arm -->
+<Moyo.corePart.parts.13.parts.1.customLabel>left arm</Moyo.corePart.parts.13.parts.1.customLabel>
+                                               <!-- left humerus -->
+<Moyo.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</Moyo.corePart.parts.13.parts.1.parts.0.customLabel>
+                                               <!-- left radius -->
+<Moyo.corePart.parts.13.parts.1.parts.1.customLabel>left radius</Moyo.corePart.parts.13.parts.1.parts.1.customLabel>
+                                               <!-- left hand -->
+<Moyo.corePart.parts.13.parts.1.parts.2.customLabel>left hand</Moyo.corePart.parts.13.parts.1.parts.2.customLabel>
+                                                       <!-- left pinky -->
+<Moyo.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left pinky</Moyo.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+                                                       <!-- left ring finger -->
+<Moyo.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left ring finger</Moyo.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+                                                       <!-- left middle finger -->
+<Moyo.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left middle finger</Moyo.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+                                                       <!-- left index finger -->
+<Moyo.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left index finger</Moyo.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+                                                       <!-- left thumb -->
+<Moyo.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left thumb</Moyo.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+                               <!-- right shoulder -->
+<Moyo.corePart.parts.14.customLabel>right shoulder</Moyo.corePart.parts.14.customLabel>
+                                       <!-- right clavicle -->
+<Moyo.corePart.parts.14.parts.0.customLabel>right clavicle</Moyo.corePart.parts.14.parts.0.customLabel>
+                                       <!-- right arm -->
+<Moyo.corePart.parts.14.parts.1.customLabel>right arm</Moyo.corePart.parts.14.parts.1.customLabel>
+                                               <!-- right humerus -->
+<Moyo.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</Moyo.corePart.parts.14.parts.1.parts.0.customLabel>
+                                               <!-- right radius -->
+<Moyo.corePart.parts.14.parts.1.parts.1.customLabel>right radius</Moyo.corePart.parts.14.parts.1.parts.1.customLabel>
+                                               <!-- right hand -->
+<Moyo.corePart.parts.14.parts.1.parts.2.customLabel>right hand</Moyo.corePart.parts.14.parts.1.parts.2.customLabel>
+                                                       <!-- right pinky -->
+<Moyo.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right pinky</Moyo.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+                                                       <!-- right ring finger -->
+<Moyo.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right ring finger</Moyo.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+                                                       <!-- right middle finger -->
+<Moyo.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right middle finger</Moyo.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+                                                       <!-- right index finger -->
+<Moyo.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right index finger</Moyo.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+                                                       <!-- right thumb -->
+<Moyo.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right thumb</Moyo.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+                               <!-- left leg -->
+<Moyo.corePart.parts.16.customLabel>left leg</Moyo.corePart.parts.16.customLabel>
+                                       <!-- left femur -->
+<Moyo.corePart.parts.16.parts.0.customLabel>left femur</Moyo.corePart.parts.16.parts.0.customLabel>
+                                       <!-- left tibia -->
+<Moyo.corePart.parts.16.parts.1.customLabel>left tibia</Moyo.corePart.parts.16.parts.1.customLabel>
+                                       <!-- left foot -->
+<Moyo.corePart.parts.16.parts.2.customLabel>left foot</Moyo.corePart.parts.16.parts.2.customLabel>
+                                               <!-- left little toe -->
+<Moyo.corePart.parts.16.parts.2.parts.0.customLabel>left little toe</Moyo.corePart.parts.16.parts.2.parts.0.customLabel>
+                                               <!-- left fourth toe -->
+<Moyo.corePart.parts.16.parts.2.parts.1.customLabel>left fourth toe</Moyo.corePart.parts.16.parts.2.parts.1.customLabel>
+                                               <!-- left middle toe -->
+<Moyo.corePart.parts.16.parts.2.parts.2.customLabel>left middle toe</Moyo.corePart.parts.16.parts.2.parts.2.customLabel>
+                                               <!-- left second toe -->
+<Moyo.corePart.parts.16.parts.2.parts.3.customLabel>left second toe</Moyo.corePart.parts.16.parts.2.parts.3.customLabel>
+                                               <!-- left big toe -->
+<Moyo.corePart.parts.16.parts.2.parts.4.customLabel>left big toe</Moyo.corePart.parts.16.parts.2.parts.4.customLabel>
+                               <!-- right leg -->
+<Moyo.corePart.parts.17.customLabel>right leg</Moyo.corePart.parts.17.customLabel>
+                                       <!-- right femur -->
+<Moyo.corePart.parts.17.parts.0.customLabel>right femur</Moyo.corePart.parts.17.parts.0.customLabel>
+                                       <!-- right tibia -->
+<Moyo.corePart.parts.17.parts.1.customLabel>right tibia</Moyo.corePart.parts.17.parts.1.customLabel>
+                                       <!-- right foot -->
+<Moyo.corePart.parts.17.parts.2.customLabel>right foot</Moyo.corePart.parts.17.parts.2.customLabel>
+                                               <!-- right little toe -->
+<Moyo.corePart.parts.17.parts.2.parts.0.customLabel>right little toe</Moyo.corePart.parts.17.parts.2.parts.0.customLabel>
+                                               <!-- right fourth toe -->
+<Moyo.corePart.parts.17.parts.2.parts.1.customLabel>right fourth toe</Moyo.corePart.parts.17.parts.2.parts.1.customLabel>
+                                               <!-- right middle toe -->
+<Moyo.corePart.parts.17.parts.2.parts.2.customLabel>right middle toe</Moyo.corePart.parts.17.parts.2.parts.2.customLabel>
+                                               <!-- right second toe -->
+<Moyo.corePart.parts.17.parts.2.parts.3.customLabel>right second toe</Moyo.corePart.parts.17.parts.2.parts.3.customLabel>
+                                               <!-- right big toe -->
+<Moyo.corePart.parts.17.parts.2.parts.4.customLabel>right big toe</Moyo.corePart.parts.17.parts.2.parts.4.customLabel>
+
+</LanguageData>

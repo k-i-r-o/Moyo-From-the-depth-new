@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Items/Items_BodyParts.xml-->
+                <!-- fake moyo tail -->
+<Moyo_FakeTail.label>fake moyo tail</Moyo_FakeTail.label>
+                      <!-- A fake tail made of cloth. Helps keep balance. -->
+<Moyo_FakeTail.description>A fake tail made of cloth. Helps keep balance.</Moyo_FakeTail.description>
+                  <!-- bionic moyo tail -->
+<Moyo_BionicTail.label>bionic moyo tail</Moyo_BionicTail.label>
+                        <!-- A binoic tail made with advanced technology. Superior to a natural tail in many ways. -->
+<Moyo_BionicTail.description>A binoic tail made with advanced technology. Superior to a natural tail in many ways.</Moyo_BionicTail.description>
+                     <!-- abysstech heart -->
+<Moyo_AdvancedHeart.label>abysstech heart</Moyo_AdvancedHeart.label>
+                           <!-- A bionic heart modified with abysstech. This particular phrosthethic part is desinged for moyos. -->
+<Moyo_AdvancedHeart.description>A bionic heart modified with abysstech. This particular phrosthethic part is desinged for moyos.</Moyo_AdvancedHeart.description>
+
+</LanguageData>

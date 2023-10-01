@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ReserchDefs/Research_ProjectDefs.xml-->
+                    <!-- deepblue extraction -->
+<DeepBlue_Research.label>deepblue extraction</DeepBlue_Research.label>
+                          <!-- Research how to synthesize new drugs with deepblue. -->
+<DeepBlue_Research.description>Research how to synthesize new drugs with deepblue.</DeepBlue_Research.description>
+                       <!-- medicinal deepblue -->
+<DeepBlue_MedResearch.label>medicinal deepblue</DeepBlue_MedResearch.label>
+                             <!-- Research how to use deepblue for medical purposes. -->
+<DeepBlue_MedResearch.description>Research how to use deepblue for medical purposes.</DeepBlue_MedResearch.description>
+               <!-- deepblue synthesis -->
+<DBS_Research.label>deepblue synthesis</DBS_Research.label>
+                     <!-- Research into a more sustainable means of deepblue production. Deepblue itself cannot be synthesized, but there are other means of obtaining it. -->
+<DBS_Research.description>Research into a more sustainable means of deepblue production. Deepblue itself cannot be synthesized, but there are other means of obtaining it.</DBS_Research.description>
+                 <!-- abysstech engineering -->
+<MoyoProduction.label>abysstech engineering</MoyoProduction.label>
+                       <!-- Delve into the technology of the Lighthouse to acquire hints of replicating their gears. -->
+<MoyoProduction.description>Delve into the technology of the Lighthouse to acquire hints of replicating their gears.</MoyoProduction.description>
+                                 <!-- About: Getting abyssteel -->
+<MoyoProduction.discoveredLetterTitle>About: Getting abyssteel</MoyoProduction.discoveredLetterTitle>
+                                <!-- Now you have access to the powerful abysstech of The lighthouse. You need some abyssteel to kickstart the whole process, here are some ways to get it:
+
+-All Moyo settlements are most likely to sell abyssteel.
+-Melt down things made from abyssteel(weapons, armor and abysstech mechs).
+-Some quests are rewarded with abyssteel. -->
+<MoyoProduction.discoveredLetterText>Now you have access to the powerful abysstech of The lighthouse. You need some abyssteel to kickstart the whole process, here are some ways to get it:\n\n-All Moyo settlements are most likely to sell abyssteel.\n-Melt down things made from abyssteel(weapons, armor and abysstech mechs).\n-Some quests are rewarded with abyssteel.</MoyoProduction.discoveredLetterText>
+                  <!-- charged bolt -->
+<MoyoChargedBolt.label>charged bolt</MoyoChargedBolt.label>
+                        <!-- Craft moyo charge weaponaries. Opting for a bolt casting system to reduce loss of energy, it only requires some modifications to pulse charged weapon technology, and doesn’t take much to research. -->
+<MoyoChargedBolt.description>Craft moyo charge weaponaries. Opting for a bolt casting system to reduce loss of energy, it only requires some modifications to pulse charged weapon technology, and doesn’t take much to research.</MoyoChargedBolt.description>
+                  <!-- weaponized cryonics -->
+<MoyoCryoBlaster.label>weaponized cryonics</MoyoCryoBlaster.label>
+                        <!-- Craft cryogenic weaponaries. A result of the lighthouse’s research into minimizing bloodloss in combat. -->
+<MoyoCryoBlaster.description>Craft cryogenic weaponaries. A result of the lighthouse’s research into minimizing bloodloss in combat.</MoyoCryoBlaster.description>
+                       <!-- defensive diving suit -->
+<ShallowSeaProtection.label>defensive diving suit</ShallowSeaProtection.label>
+                             <!-- Craft moyo diving suits. Used as a substitute for armor in the civil war, it went through many modifications to be adapted for surface use, including removal of the tail piece. -->
+<ShallowSeaProtection.description>Craft moyo diving suits. Used as a substitute for armor in the civil war, it went through many modifications to be adapted for surface use, including removal of the tail piece.</ShallowSeaProtection.description>
+                    <!-- deepsea diving suit -->
+<DeepSeaProtection.label>deepsea diving suit</DeepSeaProtection.label>
+                          <!-- Craft heavy duty moyo deepdiving suits. a substitute armor used in civil war, it went through many modifications to be adapted for surface use, including removal of the tail piece. -->
+<DeepSeaProtection.description>Craft heavy duty moyo deepdiving suits. a substitute armor used in civil war, it went through many modifications to be adapted for surface use, including removal of the tail piece.</DeepSeaProtection.description>
+                         <!-- delve even deeper into abysstech -->
+<GurdianAdvisorResearch.label>delve even deeper into abysstech</GurdianAdvisorResearch.label>
+                               <!-- What you can replicate is not everything that abysstech can provide. there are still more to grasp - The pinnacle of abysstech.
+
+You need other means to cypher it. perhaps...an AI? -->
+<GurdianAdvisorResearch.description>What you can replicate is not everything that abysstech can provide. there are still more to grasp - The pinnacle of abysstech.\n\nYou need other means to cypher it. perhaps...an AI?</GurdianAdvisorResearch.description>
+                 <!-- abysstech royal arms -->
+<GuardianModule.label>abysstech royal arms</GuardianModule.label>
+                       <!-- Craft the most advanced set of gears of the Lighthouse with the help of your AI adviser. The pinnacle of abysstech enginnering is now in your hand. -->
+<GuardianModule.description>Craft the most advanced set of gears of the Lighthouse with the help of your AI adviser. The pinnacle of abysstech enginnering is now in your hand.</GuardianModule.description>
+                        <!-- deepblue manipulation -->
+<DeepBlue_Manipulation.label>deepblue manipulation</DeepBlue_Manipulation.label>
+                              <!-- With extreme understanding of biological and mechanical engineering, now you can manipulate deepblue to craft items with immense capabilities. The pinnacle of abysstech biotech is now in your hand. -->
+<DeepBlue_Manipulation.description>With extreme understanding of biological and mechanical engineering, now you can manipulate deepblue to craft items with immense capabilities. The pinnacle of abysstech biotech is now in your hand.</DeepBlue_Manipulation.description>
+
+</LanguageData>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Items/Apparel_Royal.xml-->
+                 <!-- moyo royalsuit -->
+<Moyo_Royalsuit.label>moyo royalsuit</Moyo_Royalsuit.label>
+                       <!-- High quality clothes worn by the upper class of the lighthouse. Despite the sleek exterior, it provides excellent protection. -->
+<Moyo_Royalsuit.description>High quality clothes worn by the upper class of the lighthouse. Despite the sleek exterior, it provides excellent protection.</Moyo_Royalsuit.description>
+                  <!-- moyo royalrobe A -->
+<Moyo_RoyalRobeA.label>moyo royalrobe A</Moyo_RoyalRobeA.label>
+                        <!-- Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.
+
+The clothes are engraved with the symbol of one of the three elders. -->
+<Moyo_RoyalRobeA.description>Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.\n\nThe clothes are engraved with the symbol of one of the three elders.</Moyo_RoyalRobeA.description>
+                  <!-- moyo royalrobe B -->
+<Moyo_RoyalRobeB.label>moyo royalrobe B</Moyo_RoyalRobeB.label>
+                        <!-- Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.
+
+The clothes are engraved with the symbol of one of the three elders. -->
+<Moyo_RoyalRobeB.description>Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.\n\nThe clothes are engraved with the symbol of one of the three elders.</Moyo_RoyalRobeB.description>
+                  <!-- moyo royalrobe C -->
+<Moyo_RoyalRobeC.label>moyo royalrobe C</Moyo_RoyalRobeC.label>
+                        <!-- Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.
+
+The clothes are engraved with the symbol of one of the three elders. -->
+<Moyo_RoyalRobeC.description>Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.\n\nThe clothes are engraved with the symbol of one of the three elders.</Moyo_RoyalRobeC.description>
+                       <!-- moyo exotic black dress -->
+<Moyo_RoyalBlackDress.label>moyo exotic black dress</Moyo_RoyalBlackDress.label>
+                             <!-- Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.
+
+A black dress with a peculiar style. Without any resemblence of the elders, for whom this clothing has been made is a mystery. 
+
+*Designed for female use.* -->
+<Moyo_RoyalBlackDress.description>Extravagant clothes worn by the upper class of the lighthouse. Made with advanced materials and is sturdier than it seems.\n\nA black dress with a peculiar style. Without any resemblence of the elders, for whom this clothing has been made is a mystery. \n\n*Designed for female use.*</Moyo_RoyalBlackDress.description>
+                <!-- moyo holosuit -->
+<Moyo_Holosuit.label>moyo holosuit</Moyo_Holosuit.label>
+                      <!-- High quality clothes worn by the celebrities of the lighthouse. Made with advanced materials and is sturdier than it seems.
+
+As products of the surface gained more fame over time, entertainers and designers soon followed suit. The first to adopt this style were whom so-called 'Sirens', who were the biggest influencers of their society.
+
+ *Designed for female use.* -->
+<Moyo_Holosuit.description>High quality clothes worn by the celebrities of the lighthouse. Made with advanced materials and is sturdier than it seems.\n\nAs products of the surface gained more fame over time, entertainers and designers soon followed suit. The first to adopt this style were whom so-called 'Sirens', who were the biggest influencers of their society.\n\n *Designed for female use.*</Moyo_Holosuit.description>
+                  <!-- moyo holojacket -->
+<Moyo_HoloJacket.label>moyo holojacket</Moyo_HoloJacket.label>
+                        <!-- High quality clothes worn by the celebrities of the lighthouse. Made with advanced materials and is sturdier than it seems.
+
+As products of the surface gained more fame over time, entertainers and designers soon followed suit. The first to adopt this style were whom so-called 'Sirens', who were the biggest influencers of their society.
+
+ *Designed for female use.* -->
+<Moyo_HoloJacket.description>High quality clothes worn by the celebrities of the lighthouse. Made with advanced materials and is sturdier than it seems.\n\nAs products of the surface gained more fame over time, entertainers and designers soon followed suit. The first to adopt this style were whom so-called 'Sirens', who were the biggest influencers of their society.\n\n *Designed for female use.*</Moyo_HoloJacket.description>
+                      <!-- Moyo mini holoprojector A -->
+<Moyo_RoyalHologramA.label>Moyo mini holoprojector A</Moyo_RoyalHologramA.label>
+                            <!-- A miniature holographic projector used as an accessory by the upper class in the lighthouse. Provided next to no protection, but aids communications with holographic images.
+
+It’s projecting the symbol of one of the three elders. -->
+<Moyo_RoyalHologramA.description>A miniature holographic projector used as an accessory by the upper class in the lighthouse. Provided next to no protection, but aids communications with holographic images.\n\nIt’s projecting the symbol of one of the three elders.</Moyo_RoyalHologramA.description>
+                      <!-- Moyo mini holoprojector B -->
+<Moyo_RoyalHologramB.label>Moyo mini holoprojector B</Moyo_RoyalHologramB.label>
+                            <!-- A miniature holographic projector used as an accessory by the upper class in the lighthouse. Provided next to no protection, but aids communications with holographic images.
+
+It’s projecting the symbol of one of the three elders. -->
+<Moyo_RoyalHologramB.description>A miniature holographic projector used as an accessory by the upper class in the lighthouse. Provided next to no protection, but aids communications with holographic images.\n\nIt’s projecting the symbol of one of the three elders.</Moyo_RoyalHologramB.description>
+                      <!-- Moyo mini holoprojector C -->
+<Moyo_RoyalHologramC.label>Moyo mini holoprojector C</Moyo_RoyalHologramC.label>
+                            <!-- A miniature holographic projector used as an accessory by the upper class in the lighthouse. Provided next to no protection, but aids communications with holographic images.
+
+It’s projecting the symbol of one of the three elders. -->
+<Moyo_RoyalHologramC.description>A miniature holographic projector used as an accessory by the upper class in the lighthouse. Provided next to no protection, but aids communications with holographic images.\n\nIt’s projecting the symbol of one of the three elders.</Moyo_RoyalHologramC.description>
+              <!-- Moyo royalguard armor -->
+<Moyo_GDsuit.label>Moyo royalguard armor</Moyo_GDsuit.label>
+                    <!-- Deep diving gear modified into battle armor for the elder’s guardians.
+
+When the civil war broke out, the elders quickly formed the royal guard to protect themselves. The diving suits, already being used in the military, was used to arm them. -->
+<Moyo_GDsuit.description>Deep diving gear modified into battle armor for the elder’s guardians.\n\nWhen the civil war broke out, the elders quickly formed the royal guard to protect themselves. The diving suits, already being used in the military, was used to arm them.</Moyo_GDsuit.description>
+                <!-- Moyo royalguard helmet -->
+<Moyo_GDhelmet.label>Moyo royalguard helmet</Moyo_GDhelmet.label>
+                      <!-- The helm of the royal guard. All of its support systems have been modified for combat.
+
+The royal guard don’t just defend the elders. Deployed all over the lighthouse to find and destroy opposing forces, the white armor and the unique visors of the royal guards soon became a symbol of fear. -->
+<Moyo_GDhelmet.description>The helm of the royal guard. All of its support systems have been modified for combat.\n\nThe royal guard don’t just defend the elders. Deployed all over the lighthouse to find and destroy opposing forces, the white armor and the unique visors of the royal guards soon became a symbol of fear.</Moyo_GDhelmet.description>
+              <!-- Moyo royalguard light armor -->
+<Moyo_GSsuit.label>Moyo royalguard light armor</Moyo_GSsuit.label>
+                    <!-- Diving gear modified into battle armor for the elder’s guardians.
+
+The newest addition to royal arsenal, focuses on improving mobility and versitility of the armor. This white armor if favoured by solo royalguard operatives.
+
+Experimental field generater module has been installed, but it will need a suitable power source to be activated. -->
+<Moyo_GSsuit.description>Diving gear modified into battle armor for the elder’s guardians.\n\nThe newest addition to royal arsenal, focuses on improving mobility and versitility of the armor. This white armor if favoured by solo royalguard operatives.\n\nExperimental field generater module has been installed, but it will need a suitable power source to be activated.</Moyo_GSsuit.description>
+                <!-- Moyo royalguard light helmet -->
+<Moyo_GShelmet.label>Moyo royalguard light helmet</Moyo_GShelmet.label>
+                      <!-- The helm of the royal guard. All of its support systems have been modified for combat.
+\There are works that has to be done quietly. This is when royalguard operatives are dispatched, serving the elders behind the scenes. -->
+<Moyo_GShelmet.description>The helm of the royal guard. All of its support systems have been modified for combat.\n\There are works that has to be done quietly. This is when royalguard operatives are dispatched, serving the elders behind the scenes.</Moyo_GShelmet.description>
+
+</LanguageData>

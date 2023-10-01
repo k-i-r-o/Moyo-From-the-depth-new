@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Items/WeaponsDef.xml-->
+              <!-- moyo wrench -->
+<Moyo_Wrench.label>moyo wrench</Moyo_Wrench.label>
+                    <!-- A tool for bending metal and tightening bolts. Or bashing in heads, if you need to. -->
+<Moyo_Wrench.description>A tool for bending metal and tightening bolts. Or bashing in heads, if you need to.</Moyo_Wrench.description>
+                      <!-- handle -->
+<Moyo_Wrench.tools.0.label>handle</Moyo_Wrench.tools.0.label>
+                      <!-- head -->
+<Moyo_Wrench.tools.1.label>head</Moyo_Wrench.tools.1.label>
+             <!-- moyo diving knife -->
+<Moyo_Knife.label>moyo diving knife</Moyo_Knife.label>
+                   <!-- A knife is always handy to have, and under the sea is no exception. The sharp and light blade made from plasteel is a favorite among moyo divers. -->
+<Moyo_Knife.description>A knife is always handy to have, and under the sea is no exception. The sharp and light blade made from plasteel is a favorite among moyo divers.</Moyo_Knife.description>
+                     <!-- handle -->
+<Moyo_Knife.tools.0.label>handle</Moyo_Knife.tools.0.label>
+                     <!-- blade -->
+<Moyo_Knife.tools.1.label>blade</Moyo_Knife.tools.1.label>
+                     <!-- point -->
+<Moyo_Knife.tools.2.label>point</Moyo_Knife.tools.2.label>
+                  <!-- Moyo piledriver -->
+<Moyo_Piledriver.label>Moyo piledriver</Moyo_Piledriver.label>
+                        <!-- A mining tool designed to drive metal stakes into stone. The machine is cumbersome and firing a stake takes a long time, but it can easily break rocks and pierce steel.
+
+As the number of operable mechanoids decreased, the need for moyo miners increased. -->
+<Moyo_Piledriver.description>A mining tool designed to drive metal stakes into stone. The machine is cumbersome and firing a stake takes a long time, but it can easily break rocks and pierce steel.\n\nAs the number of operable mechanoids decreased, the need for moyo miners increased.</Moyo_Piledriver.description>
+                          <!-- body -->
+<Moyo_Piledriver.tools.0.label>body</Moyo_Piledriver.tools.0.label>
+                          <!-- Stake -->
+<Moyo_Piledriver.tools.1.label>Stake</Moyo_Piledriver.tools.1.label>
+             <!-- moyo battleaxe -->
+<Moyo_Spear.label>moyo battleaxe</Moyo_Spear.label>
+                   <!-- Heavy battleaxe prototype forged with abysteel. Has a cryogenic blade intended to minimize bleeding from cuts. well, so said the development team. Its a weapon that can split open a diving suit helmet, bloodloss will be the least concern. -->
+<Moyo_Spear.description>Heavy battleaxe prototype forged with abysteel. Has a cryogenic blade intended to minimize bleeding from cuts. well, so said the development team. Its a weapon that can split open a diving suit helmet, bloodloss will be the least concern.</Moyo_Spear.description>
+                     <!-- handle -->
+<Moyo_Spear.tools.0.label>handle</Moyo_Spear.tools.0.label>
+                     <!-- blade -->
+<Moyo_Spear.tools.1.label>blade</Moyo_Spear.tools.1.label>
+                 <!-- moyo powerfist -->
+<Moyo_PowerFist.label>moyo powerfist</Moyo_PowerFist.label>
+                       <!-- A mechanical glove that enhances the user’s strength to aid in underwater work. It’s designed to be used in conjunction with the diving suit, but can be used without. -->
+<Moyo_PowerFist.description>A mechanical glove that enhances the user’s strength to aid in underwater work. It’s designed to be used in conjunction with the diving suit, but can be used without.</Moyo_PowerFist.description>
+                         <!-- Fist -->
+<Moyo_PowerFist.tools.0.label>Fist</Moyo_PowerFist.tools.0.label>
+                         <!-- Body -->
+<Moyo_PowerFist.tools.1.label>Body</Moyo_PowerFist.tools.1.label>
+               <!-- moyo royal battleaxe -->
+<Moyo_GDSpear.label>moyo royal battleaxe</Moyo_GDSpear.label>
+                     <!-- Heavy battleaxe used by the royal guard. It has been refined for ease of use and equipped with advanced cryogenic blade
+
+A modified version of the prototype battleaxe, the white body and the royal guard’s symbol etched upon it are the blades of the elders. -->
+<Moyo_GDSpear.description>Heavy battleaxe used by the royal guard. It has been refined for ease of use and equipped with advanced cryogenic blade\n\nA modified version of the prototype battleaxe, the white body and the royal guard’s symbol etched upon it are the blades of the elders.</Moyo_GDSpear.description>
+                       <!-- handle -->
+<Moyo_GDSpear.tools.0.label>handle</Moyo_GDSpear.tools.0.label>
+                       <!-- blade -->
+<Moyo_GDSpear.tools.1.label>blade</Moyo_GDSpear.tools.1.label>
+                   <!-- moyo royal powerfist -->
+<Moyo_GDPowerFist.label>moyo royal powerfist</Moyo_GDPowerFist.label>
+                         <!-- Combat powerfist used by the royal guard. In truth, there is little difference in function compared to an ordinary powerfist.
+
+The powerfist was chosen as one of the royal guard’s equipment for its versatility. The white shell and the royal guard’s symbol etched upon it are the iron fists of the elders. -->
+<Moyo_GDPowerFist.description>Combat powerfist used by the royal guard. In truth, there is little difference in function compared to an ordinary powerfist.\n\nThe powerfist was chosen as one of the royal guard’s equipment for its versatility. The white shell and the royal guard’s symbol etched upon it are the iron fists of the elders.</Moyo_GDPowerFist.description>
+                           <!-- Fist -->
+<Moyo_GDPowerFist.tools.0.label>Fist</Moyo_GDPowerFist.tools.0.label>
+                           <!-- Body -->
+<Moyo_GDPowerFist.tools.1.label>Body</Moyo_GDPowerFist.tools.1.label>
+              <!-- moyo nail gun -->
+<Moyo_Pistol.label>moyo nail gun</Moyo_Pistol.label>
+                    <!-- A common contruction tool of the Lighthouse. It has strong firing mechanism to make it reliable in most places. which also makes it fantastic as a improvised weapon. -->
+<Moyo_Pistol.description>A common contruction tool of the Lighthouse. It has strong firing mechanism to make it reliable in most places. which also makes it fantastic as a improvised weapon.</Moyo_Pistol.description>
+                      <!-- grip -->
+<Moyo_Pistol.tools.0.label>grip</Moyo_Pistol.tools.0.label>
+                      <!-- barrel -->
+<Moyo_Pistol.tools.1.label>barrel</Moyo_Pistol.tools.1.label>
+                   <!-- Moyo rivet -->
+<Bullet_MoyoRivet.label>Moyo rivet</Bullet_MoyoRivet.label>
+                   <!-- moyo charge rifle -->
+<Moyo_ChargeRifle.label>moyo charge rifle</Moyo_ChargeRifle.label>
+                         <!-- Moyo assult rifle that shows much similarities with a traditional charge rifle. The charged bolt and accelerated through the barrel and fired. Each bolt is designed to minimize energy loss over distance.
+
+The lighthouse uses traditional charge rifles as well, but once the new rifles proved its efficiency, the moyo charge rifles became the standard. -->
+<Moyo_ChargeRifle.description>Moyo assult rifle that shows much similarities with a traditional charge rifle. The charged bolt and accelerated through the barrel and fired. Each bolt is designed to minimize energy loss over distance.\n\nThe lighthouse uses traditional charge rifles as well, but once the new rifles proved its efficiency, the moyo charge rifles became the standard.</Moyo_ChargeRifle.description>
+                           <!-- stock -->
+<Moyo_ChargeRifle.tools.0.label>stock</Moyo_ChargeRifle.tools.0.label>
+                           <!-- barrel -->
+<Moyo_ChargeRifle.tools.1.label>barrel</Moyo_ChargeRifle.tools.1.label>
+                         <!-- Moyo chargebolt -->
+<Bullet_MoyoAssaultBolt.label>Moyo chargebolt</Bullet_MoyoAssaultBolt.label>
+                      <!-- moyo precision rifle -->
+<Moyo_PrecisionRifle.label>moyo precision rifle</Moyo_PrecisionRifle.label>
+                            <!-- Moyo sniper rifle that shows much similarities with a traditional charge rifle. The firerate is low, but each shot boasts an impressive range and accuracy.
+
+An experimental model made with the development of bolt caster technology, they where seldom used in the confines of the lighthouse, but will prove to be an effective weapon in the open surface of the rim. -->
+<Moyo_PrecisionRifle.description>Moyo sniper rifle that shows much similarities with a traditional charge rifle. The firerate is low, but each shot boasts an impressive range and accuracy.\n\nAn experimental model made with the development of bolt caster technology, they where seldom used in the confines of the lighthouse, but will prove to be an effective weapon in the open surface of the rim.</Moyo_PrecisionRifle.description>
+                              <!-- stock -->
+<Moyo_PrecisionRifle.tools.0.label>stock</Moyo_PrecisionRifle.tools.0.label>
+                              <!-- barrel -->
+<Moyo_PrecisionRifle.tools.1.label>barrel</Moyo_PrecisionRifle.tools.1.label>
+                        <!-- moyo energy shot -->
+<Bullet_MoyoSniperBolt.label>moyo energy shot</Bullet_MoyoSniperBolt.label>
+                 <!-- moyo charge SMG -->
+<Moyo_ChargeSMG.label>moyo charge SMG</Moyo_ChargeSMG.label>
+                       <!-- Small moyo submachine gun. Light and easy to use, these were the most commonly used weapons in the lighthouse.
+
+Before, most firearms where locked in the armories, but in the civil war, firearms both new and old quickly spread to all levels of the lighthouse. -->
+<Moyo_ChargeSMG.description>Small moyo submachine gun. Light and easy to use, these were the most commonly used weapons in the lighthouse.\n\nBefore, most firearms where locked in the armories, but in the civil war, firearms both new and old quickly spread to all levels of the lighthouse.</Moyo_ChargeSMG.description>
+                         <!-- stock -->
+<Moyo_ChargeSMG.tools.0.label>stock</Moyo_ChargeSMG.tools.0.label>
+                         <!-- barrel -->
+<Moyo_ChargeSMG.tools.1.label>barrel</Moyo_ChargeSMG.tools.1.label>
+                     <!-- moyo chargebolt -->
+<Bullet_MoyoSMGBolt.label>moyo chargebolt</Bullet_MoyoSMGBolt.label>
+                  <!-- moyo balista -->
+<Moyo_BoltCaster.label>moyo balista</Moyo_BoltCaster.label>
+                        <!-- Large boltcaster made to fight off the leviathans that threaten the lighthouse. The weapon accelerates overcharged energy bolts through the barrel and fires them. On impact, the bolts release the stored energy in a violent explosion.
+
+Boltcaster weapons were developed when traditional charge weapons proved less effective underwater. This boltcaster is the first charge bolt weapon, and every subsequent moyo firearm can be traced back to it.. -->
+<Moyo_BoltCaster.description>Large boltcaster made to fight off the leviathans that threaten the lighthouse. The weapon accelerates overcharged energy bolts through the barrel and fires them. On impact, the bolts release the stored energy in a violent explosion.\n\nBoltcaster weapons were developed when traditional charge weapons proved less effective underwater. This boltcaster is the first charge bolt weapon, and every subsequent moyo firearm can be traced back to it..</Moyo_BoltCaster.description>
+                          <!-- body -->
+<Moyo_BoltCaster.tools.0.label>body</Moyo_BoltCaster.tools.0.label>
+                          <!-- barrel -->
+<Moyo_BoltCaster.tools.1.label>barrel</Moyo_BoltCaster.tools.1.label>
+                        <!-- moyo heavy chargebolt -->
+<Bullet_MoyoChargeBolt.label>moyo heavy chargebolt</Bullet_MoyoChargeBolt.label>
+                  <!-- moyo autocannon -->
+<Moyo_AutoCannon.label>moyo autocannon</Moyo_AutoCannon.label>
+                        <!-- Large boltcaster with a high rate of fire. The bolts fired from this weapon is effective on both armored and unarmored targets.n
+As the battles in the lighthouse grew more complex, more weapons where developed to deal with the changing situation. This weapon in particular seems to have been inspired by a surface weapon. -->
+<Moyo_AutoCannon.description>Large boltcaster with a high rate of fire. The bolts fired from this weapon is effective on both armored and unarmored targets.n\nAs the battles in the lighthouse grew more complex, more weapons where developed to deal with the changing situation. This weapon in particular seems to have been inspired by a surface weapon.</Moyo_AutoCannon.description>
+                          <!-- body -->
+<Moyo_AutoCannon.tools.0.label>body</Moyo_AutoCannon.tools.0.label>
+                          <!-- barrel -->
+<Moyo_AutoCannon.tools.1.label>barrel</Moyo_AutoCannon.tools.1.label>
+                        <!-- moyo heavy chargebolt -->
+<Bullet_MoyoAutoCannon.label>moyo heavy chargebolt</Bullet_MoyoAutoCannon.label>
+                        <!-- moyo royal charge rifle -->
+<Moyo_HeavyChargeRifle.label>moyo royal charge rifle</Moyo_HeavyChargeRifle.label>
+                              <!-- Heavy rifle used by the royal guard. A model focusing almost entirely on firepower, this model is supiror to the original charge rifle in nearly every way save weight and ease of use.
+
+The first weapon chosen as the armament of the royal guard, the white body etched with the symbol of the royal guard are the spears of the elders. -->
+<Moyo_HeavyChargeRifle.description>Heavy rifle used by the royal guard. A model focusing almost entirely on firepower, this model is supiror to the original charge rifle in nearly every way save weight and ease of use.\n\nThe first weapon chosen as the armament of the royal guard, the white body etched with the symbol of the royal guard are the spears of the elders.</Moyo_HeavyChargeRifle.description>
+                                <!-- stock -->
+<Moyo_HeavyChargeRifle.tools.0.label>stock</Moyo_HeavyChargeRifle.tools.0.label>
+                                <!-- barrel -->
+<Moyo_HeavyChargeRifle.tools.1.label>barrel</Moyo_HeavyChargeRifle.tools.1.label>
+                       <!-- moyo royal autocannon -->
+<Moyo_HeavyAutoCannon.label>moyo royal autocannon</Moyo_HeavyAutoCannon.label>
+                             <!-- Heavy autocannon used by the royal guard. The bolts fired from this weapon is effective on both armored and unarmored targets.
+
+One of the armaments of the royal guard, the white body etched with the symbol of the royal guard are the hammers of the elders. -->
+<Moyo_HeavyAutoCannon.description>Heavy autocannon used by the royal guard. The bolts fired from this weapon is effective on both armored and unarmored targets.\n\nOne of the armaments of the royal guard, the white body etched with the symbol of the royal guard are the hammers of the elders.</Moyo_HeavyAutoCannon.description>
+                               <!-- body -->
+<Moyo_HeavyAutoCannon.tools.0.label>body</Moyo_HeavyAutoCannon.tools.0.label>
+                               <!-- barrel -->
+<Moyo_HeavyAutoCannon.tools.1.label>barrel</Moyo_HeavyAutoCannon.tools.1.label>
+                       <!-- moyo royal balista -->
+<Moyo_HeavyBoltCaster.label>moyo royal balista</Moyo_HeavyBoltCaster.label>
+                             <!-- Heavy boltcaster used by the royal guard. Compared to the original, it can fire chargebolts faster, more accurately over longer distance.
+
+The symbolic weapon approved to be a part of royal arsenal, the white body etched with the symbol of the royal guard are the mace of the elders. -->
+<Moyo_HeavyBoltCaster.description>Heavy boltcaster used by the royal guard. Compared to the original, it can fire chargebolts faster, more accurately over longer distance.\n\nThe symbolic weapon approved to be a part of royal arsenal, the white body etched with the symbol of the royal guard are the mace of the elders.</Moyo_HeavyBoltCaster.description>
+                               <!-- body -->
+<Moyo_HeavyBoltCaster.tools.0.label>body</Moyo_HeavyBoltCaster.tools.0.label>
+                               <!-- barrel -->
+<Moyo_HeavyBoltCaster.tools.1.label>barrel</Moyo_HeavyBoltCaster.tools.1.label>
+                   <!-- moyo cryoblaster -->
+<Moyo_CryoBlaster.label>moyo cryoblaster</Moyo_CryoBlaster.label>
+                         <!-- Weapon developed for riot control. Fires cryogenic material that quickly freezes on its victims and causes severe frostbite.
+
+Cyrogenic weapons where developed with intent to reduce bleeding during suppression and capture targets with relatively less injuries. -->
+<Moyo_CryoBlaster.description>Weapon developed for riot control. Fires cryogenic material that quickly freezes on its victims and causes severe frostbite.\n\nCyrogenic weapons where developed with intent to reduce bleeding during suppression and capture targets with relatively less injuries.</Moyo_CryoBlaster.description>
+                           <!-- body -->
+<Moyo_CryoBlaster.tools.0.label>body</Moyo_CryoBlaster.tools.0.label>
+                           <!-- barrel -->
+<Moyo_CryoBlaster.tools.1.label>barrel</Moyo_CryoBlaster.tools.1.label>
+                     <!-- moyo cryoblast -->
+<Bullet_MoyoCBBlast.label>moyo cryoblast</Bullet_MoyoCBBlast.label>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RecipeDefs/Recipes_DeepBlue.xml-->
+                         <!-- process moyo corpse -->
+<Extract_DeepBlueCorpse.label>process moyo corpse</Extract_DeepBlueCorpse.label>
+                               <!-- Extract deepblue from a moyo corpse. All other parts of the body are wasted.
+
+This job uses skills related to drug synthesis. -->
+<Extract_DeepBlueCorpse.description>Extract deepblue from a moyo corpse. All other parts of the body are wasted.\n\nThis job uses skills related to drug synthesis.</Extract_DeepBlueCorpse.description>
+                             <!-- Processing moyo corpse. -->
+<Extract_DeepBlueCorpse.jobString>Processing moyo corpse.</Extract_DeepBlueCorpse.jobString>
+            <!-- synthesize nutrition pack x5 -->
+<Make_DBSF.label>synthesize nutrition pack x5</Make_DBSF.label>
+                  <!-- Synthesize nutrition packs for the deepblue station. -->
+<Make_DBSF.description>Synthesize nutrition packs for the deepblue station.</Make_DBSF.description>
+                <!-- synthesizing 5 nutrition pack. -->
+<Make_DBSF.jobString>synthesizing 5 nutrition pack.</Make_DBSF.jobString>
+                <!-- synthesize nutrition pack x20 -->
+<Make_DBSFbulk.label>synthesize nutrition pack x20</Make_DBSFbulk.label>
+                      <!-- Synthesize multiple nutrition packs for the deepblue station. -->
+<Make_DBSFbulk.description>Synthesize multiple nutrition packs for the deepblue station.</Make_DBSFbulk.description>
+                    <!-- synthesizing 20 nutrition pack. -->
+<Make_DBSFbulk.jobString>synthesizing 20 nutrition pack.</Make_DBSFbulk.jobString>
+
+</LanguageData>

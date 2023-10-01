@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/BodyAndPartDefs/Bodyparts.xml-->
+             <!-- moyo heart -->
+<Moyo_Heart.label>moyo heart</Moyo_Heart.label>
+                   <!-- A biological moyo heart. Pumps blood around the body. -->
+<Moyo_Heart.description>A biological moyo heart. Pumps blood around the body.</Moyo_Heart.description>
+
+</LanguageData>

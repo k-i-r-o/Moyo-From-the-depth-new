@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/RecipeDefs/Recipes_Surgery_Installations.xml-->
+                       <!-- install fake tail -->
+<InstallFakeTail_Moyo.label>install fake tail</InstallFakeTail_Moyo.label>
+                             <!-- Install a fake tail. -->
+<InstallFakeTail_Moyo.description>Install a fake tail.</InstallFakeTail_Moyo.description>
+                           <!-- Installing fake tail. -->
+<InstallFakeTail_Moyo.jobString>Installing fake tail.</InstallFakeTail_Moyo.jobString>
+                         <!-- install bionic tail -->
+<InstallBionicTail_Moyo.label>install bionic tail</InstallBionicTail_Moyo.label>
+                               <!-- Install a bionic tail. -->
+<InstallBionicTail_Moyo.description>Install a bionic tail.</InstallBionicTail_Moyo.description>
+                             <!-- Installing bionic tail. -->
+<InstallBionicTail_Moyo.jobString>Installing bionic tail.</InstallBionicTail_Moyo.jobString>
+                           <!-- install heart -->
+<InstallNaturalHeart_Moyo.label>install heart</InstallNaturalHeart_Moyo.label>
+                                 <!-- Install a biological heart. -->
+<InstallNaturalHeart_Moyo.description>Install a biological heart.</InstallNaturalHeart_Moyo.description>
+                               <!-- Installing heart. -->
+<InstallNaturalHeart_Moyo.jobString>Installing heart.</InstallNaturalHeart_Moyo.jobString>
+                                    <!-- install prosthetic heart -->
+<InstallSimpleProstheticHeart_Moyo.label>install prosthetic heart</InstallSimpleProstheticHeart_Moyo.label>
+                                          <!-- Install a prosthetic heart. -->
+<InstallSimpleProstheticHeart_Moyo.description>Install a prosthetic heart.</InstallSimpleProstheticHeart_Moyo.description>
+                                        <!-- Installing prosthetic heart. -->
+<InstallSimpleProstheticHeart_Moyo.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart_Moyo.jobString>
+                          <!-- install bionic heart -->
+<InstallBionicHeart_Moyo.label>install bionic heart</InstallBionicHeart_Moyo.label>
+                                <!-- Install a bionic heart. -->
+<InstallBionicHeart_Moyo.description>Install a bionic heart.</InstallBionicHeart_Moyo.description>
+                              <!-- Installing bionic heart. -->
+<InstallBionicHeart_Moyo.jobString>Installing bionic heart.</InstallBionicHeart_Moyo.jobString>
+                            <!-- install abysstech heart -->
+<InstallAdvancedHeart_Moyo.label>install abysstech heart</InstallAdvancedHeart_Moyo.label>
+                                  <!-- Install a abysstech heart. -->
+<InstallAdvancedHeart_Moyo.description>Install a abysstech heart.</InstallAdvancedHeart_Moyo.description>
+                                <!-- Installing abysstech heart. -->
+<InstallAdvancedHeart_Moyo.jobString>Installing abysstech heart.</InstallAdvancedHeart_Moyo.jobString>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Items/Apparel_Various.xml-->
+                     <!-- reconfigure Sensory control helmet(to Supressing) -->
+<ChangeMod_PSHelmet.label>reconfigure Sensory control helmet(to Supressing)</ChangeMod_PSHelmet.label>
+                           <!-- Reconfigure sensory control helmet into suppresing mode. -->
+<ChangeMod_PSHelmet.description>Reconfigure sensory control helmet into suppresing mode.</ChangeMod_PSHelmet.description>
+                         <!-- Reconfiguring Sensory control helmet(to Supressing). -->
+<ChangeMod_PSHelmet.jobString>Reconfiguring Sensory control helmet(to Supressing).</ChangeMod_PSHelmet.jobString>
+                     <!-- reconfigure Sensory control helmet(to Soothing) -->
+<ChangeMod_SSHelmet.label>reconfigure Sensory control helmet(to Soothing)</ChangeMod_SSHelmet.label>
+                           <!-- Reconfigure sensory control helmet into Soothing mode. -->
+<ChangeMod_SSHelmet.description>Reconfigure sensory control helmet into Soothing mode.</ChangeMod_SSHelmet.description>
+                         <!-- Reconfiguring Sensory control helmet(to Soothing). -->
+<ChangeMod_SSHelmet.jobString>Reconfiguring Sensory control helmet(to Soothing).</ChangeMod_SSHelmet.jobString>
+
+</LanguageData>

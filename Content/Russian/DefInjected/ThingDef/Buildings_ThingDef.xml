@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingsDefs_Misc/Buildings.xml-->
+           <!-- deepblue station -->
+<Moyo_DBS.label>deepblue station</Moyo_DBS.label>
+                 <!-- A machine that utilizes Moyo's organ to produce more deepblue. Both electricity and nutrition is needed for production.
+
+I don't recommend looking through the glass... -->
+<Moyo_DBS.description>A machine that utilizes Moyo's organ to produce more deepblue. Both electricity and nutrition is needed for production.\n\nI don't recommend looking through the glass...</Moyo_DBS.description>
+                                          <!-- DBS1 -->
+<Moyo_DBS.comps.OLB.Comp_Decorate.mote.0.label>DBS1</Moyo_DBS.comps.OLB.Comp_Decorate.mote.0.label>
+                                          <!-- DBS2 -->
+<Moyo_DBS.comps.OLB.Comp_Decorate.mote.1.label>DBS2</Moyo_DBS.comps.OLB.Comp_Decorate.mote.1.label>
+            <!-- large deepblue station -->
+<Moyo_DBLS.label>large deepblue station</Moyo_DBLS.label>
+                  <!-- A larger deepblue station. Both electricity and nutrition is needed for production.
+
+I serouisly don't recommend looking through the glass... -->
+<Moyo_DBLS.description>A larger deepblue station. Both electricity and nutrition is needed for production.\n\nI serouisly don't recommend looking through the glass...</Moyo_DBLS.description>
+                                           <!-- DBS1 -->
+<Moyo_DBLS.comps.OLB.Comp_Decorate.mote.0.label>DBS1</Moyo_DBLS.comps.OLB.Comp_Decorate.mote.0.label>
+                                           <!-- DBS2 -->
+<Moyo_DBLS.comps.OLB.Comp_Decorate.mote.1.label>DBS2</Moyo_DBLS.comps.OLB.Comp_Decorate.mote.1.label>
+            <!-- nutrition pack -->
+<Moyo_DBSF.label>nutrition pack</Moyo_DBSF.label>
+                  <!-- A cansister of nutrients extracted from organic materials. It’s been specially treated for use in the deepblue station. -->
+<Moyo_DBSF.description>A cansister of nutrients extracted from organic materials. It’s been specially treated for use in the deepblue station.</Moyo_DBSF.description>
+                        <!-- abysstech fabrication bench -->
+<Moyo_FabricationBench.label>abysstech fabrication bench</Moyo_FabricationBench.label>
+                              <!-- A workbench for producing abysstech items. Equipped with various advanced tools, it can handle precise production like components to complex production of making abysteel. -->
+<Moyo_FabricationBench.description>A workbench for producing abysstech items. Equipped with various advanced tools, it can handle precise production like components to complex production of making abysteel.</Moyo_FabricationBench.description>
+                      <!-- small abyssal pearl sculpture -->
+<PearlSculptureSmall.label>small abyssal pearl sculpture</PearlSculptureSmall.label>
+                            <!-- A torso-sized piece of abyssal pearl sculpted into an artistic form. its design is based on natural crystaline structure of the material. -->
+<PearlSculptureSmall.description>A torso-sized piece of abyssal pearl sculpted into an artistic form. its design is based on natural crystaline structure of the material.</PearlSculptureSmall.description>
+                      <!-- large abyssal pearl sculpture -->
+<PearlSculptureLarge.label>large abyssal pearl sculpture</PearlSculptureLarge.label>
+                            <!-- A person-sized piece of abyssal pearl sculpted into an artistic form. its design is based on natural crystaline structure of the material. -->
+<PearlSculptureLarge.description>A person-sized piece of abyssal pearl sculpted into an artistic form. its design is based on natural crystaline structure of the material.</PearlSculptureLarge.description>
+                      <!-- grand abyssal pearl sculpture -->
+<PearlSculptureGrand.label>grand abyssal pearl sculpture</PearlSculptureGrand.label>
+                            <!-- A huge sculpture made with abyssal pearl, sized to dominate a room. its design is based on natural crystaline structure of the material. -->
+<PearlSculptureGrand.description>A huge sculpture made with abyssal pearl, sized to dominate a room. its design is based on natural crystaline structure of the material.</PearlSculptureGrand.description>
+               <!-- abysstech persona adviser module -->
+<MoyoGRModule.label>abysstech persona adviser module</MoyoGRModule.label>
+                     <!-- An AI adviser to aid in your colony's research. Increases research speed when placed near hi-tech research bench and unlocks the pinnacle of abysstech. Each research bench can only use one adviser module. -->
+<MoyoGRModule.description>An AI adviser to aid in your colony's research. Increases research speed when placed near hi-tech research bench and unlocks the pinnacle of abysstech. Each research bench can only use one adviser module.</MoyoGRModule.description>
+
+</LanguageData>
