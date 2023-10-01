@@ -2,8 +2,8 @@
 <LanguageData>
 <!--/Defs/BodyAndPartDefs/Bodyparts.xml-->
              <!-- moyo heart -->
-<Moyo_Heart.label>moyo heart</Moyo_Heart.label>
+<Moyo_Heart.label>сердце мойо</Moyo_Heart.label>
                    <!-- A biological moyo heart. Pumps blood around the body. -->
-<Moyo_Heart.description>A biological moyo heart. Pumps blood around the body.</Moyo_Heart.description>
+<Moyo_Heart.description>Биологическое сердце мойо. Перекачивает кровь по всему телу.</Moyo_Heart.description>
 
 </LanguageData>
