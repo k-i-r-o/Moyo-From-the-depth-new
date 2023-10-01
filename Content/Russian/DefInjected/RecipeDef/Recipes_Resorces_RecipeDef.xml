@@ -2,22 +2,22 @@
 <LanguageData>
 <!--/Defs/RecipeDefs/Recipes_Resorces.xml-->
                       <!-- make abyssteel -->
-<Make_Moyo_Abyssteel.label>make abyssteel</Make_Moyo_Abyssteel.label>
+<Make_Moyo_Abyssteel.label>изготовить глубинную сталь</Make_Moyo_Abyssteel.label>
                             <!-- Make abyssteel, a commonly used alloy in the lighthouse. It is necessary for producing their items. -->
-<Make_Moyo_Abyssteel.description>Make abyssteel, a commonly used alloy in the lighthouse. It is necessary for producing their items.</Make_Moyo_Abyssteel.description>
+<Make_Moyo_Abyssteel.description>Изготовьте глубинную сталь, обычно используемый сплав на маяке. Это необходимо для производства их изделий.</Make_Moyo_Abyssteel.description>
                           <!-- Making abyssteel. -->
-<Make_Moyo_Abyssteel.jobString>Making abyssteel.</Make_Moyo_Abyssteel.jobString>
+<Make_Moyo_Abyssteel.jobString>Изготовлние глубинной стали.</Make_Moyo_Abyssteel.jobString>
                   <!-- make abyssal pearl -->
-<Make_AbyssPearl.label>make abyssal pearl</Make_AbyssPearl.label>
+<Make_AbyssPearl.label>изготовить глубинный жемчуг</Make_AbyssPearl.label>
                         <!-- Make abyssal pearl. A peculiar pearl of pure deepblue to be used in exotic products. -->
-<Make_AbyssPearl.description>Make abyssal pearl. A peculiar pearl of pure deepblue to be used in exotic products.</Make_AbyssPearl.description>
+<Make_AbyssPearl.description>Изготовьте глубинный жемчуг. Необычная жемчужина чистого темно-синего цвета для использования в экзотических изделиях.</Make_AbyssPearl.description>
                       <!-- Making abyssal pearl. -->
-<Make_AbyssPearl.jobString>Making abyssal pearl.</Make_AbyssPearl.jobString>
+<Make_AbyssPearl.jobString>Изготовлние глубинного жемчуга.</Make_AbyssPearl.jobString>
                        <!-- make depthweave -->
-<Make_Moyo_Depthweave.label>make depthweave</Make_Moyo_Depthweave.label>
+<Make_Moyo_Depthweave.label>изготовить глубинное плетение</Make_Moyo_Depthweave.label>
                              <!-- Make depthweave. A versitile fabric commonly used in the Lighthouse. -->
-<Make_Moyo_Depthweave.description>Make depthweave. A versitile fabric commonly used in the Lighthouse.</Make_Moyo_Depthweave.description>
+<Make_Moyo_Depthweave.description>Изготовьте глубинное плетение. Текстильная ткань, обычно используемая на маяке.</Make_Moyo_Depthweave.description>
                            <!-- Making depthweave. -->
-<Make_Moyo_Depthweave.jobString>Making depthweave.</Make_Moyo_Depthweave.jobString>
+<Make_Moyo_Depthweave.jobString>Изготовлние глубинного плетения.</Make_Moyo_Depthweave.jobString>
 
 </LanguageData>

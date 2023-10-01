@@ -2,9 +2,9 @@
 <LanguageData>
 <!--/Defs/BodyAndPartDefs/Mech_Bodyparts.xml-->
               <!-- head -->
-<HexapodHead.label>head</HexapodHead.label>
+<HexapodHead.label>голова</HexapodHead.label>
                    <!-- head -->
-<HexapodHeadShell.label>head</HexapodHeadShell.label>
+<HexapodHeadShell.label>голова</HexapodHeadShell.label>
                         <!-- tentacle joint -->
 <Hexapod_TentacleJoint.label>tentacle joint</Hexapod_TentacleJoint.label>
                    <!-- tentacle -->
